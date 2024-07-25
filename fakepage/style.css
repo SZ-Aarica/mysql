@@ -1,0 +1,14 @@
+
+input {
+  padding: 10px;
+}
+label {
+  margin-right: 80px;
+  font-size: 27px;
+}
+.signIn,
+.logIn {
+  padding: 10px;
+  font-size: 18px;
+  margin-top: 5px;
+}
